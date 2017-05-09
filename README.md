@@ -2,7 +2,7 @@
 
 Hi! My name is **Ali** ![alt text][logo]
 
-[logo]: https://github.com//alitalpur99/alitalpur99.github.io/master/src/mypic.png "ALI"
+[logo]: https://github.com/alitalpur99/alitalpur99.github.io/tree/master/src "ALI"
 Thank you for visiting my personal webpage.
 
 ***
