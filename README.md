@@ -1,12 +1,12 @@
 ## Welcome
 
-You can use the [editor on GitHub](https://github.com/alitalpur99/alitalpur99.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hi! Thank you for visiting my personal webpage. My name is *Ali*, and I am currently living in Germany.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### MSc Communication and Information Technology
+From University of Bremen
 
 ```markdown
 Syntax highlighted code block
@@ -26,9 +26,13 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Study Thesis
+
+For more details see [Research Gate webpage](https://www.researchgate.net/publication/313851520_Congestion_Detection_in_Software_Defined_Networks_using_Machine_Learning_of_Ali_Murad_Talpur).
+
+
+### Study Projects
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alitalpur99/alitalpur99.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
