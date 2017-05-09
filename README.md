@@ -26,12 +26,20 @@ Pakistan International Airlines (PIA), Karachi, Pakistan
 
 
 ### Study Thesis
+**Congestion Detection in Softwre-Defined Networks using Machine Learning**
+- Devised a method to detect congestion in SDN/OpenFlow networks
+- Identified suitable features to detect congestion
+- Created dataset by running multiple experiments in Mininet emulator
+- Used WEKA to build a decision tree classifier
+- Achieved Accuracy of more than 90%
 
 For more details see [Research Gate webpage](https://www.researchgate.net/publication/313851520_Congestion_Detection_in_Software_Defined_Networks_using_Machine_Learning_of_Ali_Murad_Talpur).
 
 
 ### Study Projects
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alitalpur99/alitalpur99.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
 
 ### Contact
+[LinkedIn](https://www.linkedin.com/in/alitalpur99/)
+[Xing](https://www.xing.com/profile/AliMurad_Talpur?sc_o=mxb_p)
