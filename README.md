@@ -1,30 +1,28 @@
 ## Welcome
 
-Hi! Thank you for visiting my personal webpage. My name is *Ali*, and I am currently living in Germany.
+Hi! Thank you for visiting my personal webpage. My name is **Ali**, and I am currently living in Germany.
 
 
 ## Education
 
 ### MSc Communication and Information Technology
-From University of Bremen
+From University of Bremen, Germany
 
-```markdown
-Syntax highlighted code block
+### BE Electronics
+From MUET, Jamshoro, Pakistan
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Professional Experience
 
-1. Numbered
-2. List
+### Development Engineer
+Pakistan International Airlines (PIA), Karachi, Pakistan
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+***Summary***
+- Aviation professional with more than seven years of experience on Airbus and Boeing fleet
+- Working experience of airline's Development, Airworthiness Management, Line and Base maintenance departments
+- Experience on Aircraft Avionics and In-flight Entertainment (IFE) Systems 
+- Held Aircraft Maintenance Engineers License on Airbus A310-300 aircraft 
+- Good understanding of Aviation Legislation, Human Factors, and Project Management
 
 
 ### Study Thesis
