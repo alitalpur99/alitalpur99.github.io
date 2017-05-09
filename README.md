@@ -1,7 +1,10 @@
 ## Welcome
 
-Hi! Thank you for visiting my personal webpage. My name is **Ali**, and I am currently living in Germany.
+Hi! My name is **Ali** ![alt text][logo]
 
+[logo]: https://github.com//alitalpur99/alitalpur99.github.io/master/src/mypic.png "ALI"
+Thank you for visiting my personal webpage.
+---
 
 ## Education
 
@@ -11,6 +14,7 @@ From University of Bremen, Germany
 ### BE Electronics
 From MUET, Jamshoro, Pakistan
 
+---
 
 ## Professional Experience
 
@@ -24,6 +28,7 @@ Pakistan International Airlines (PIA), Karachi, Pakistan
 - Held Aircraft Maintenance Engineers License on Airbus A310-300 aircraft 
 - Good understanding of Aviation Legislation, Human Factors, and Project Management
 
+---
 
 ### Study Thesis
 **Congestion Detection in Softwre-Defined Networks using Machine Learning**
@@ -38,8 +43,8 @@ For more details see [Research Gate webpage](https://www.researchgate.net/public
 
 ### Study Projects
 
+---
 
-
-### Contact
-[LinkedIn](https://www.linkedin.com/in/alitalpur99/)
+## Contact
+[LinkedIn](https://www.linkedin.com/in/alitalpur99/) - 
 [Xing](https://www.xing.com/profile/AliMurad_Talpur?sc_o=mxb_p)
