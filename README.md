@@ -6,7 +6,8 @@ My name is **Ali**. I am currenlty looking for a new challange in research and d
 
 ## Interest / Wants 
 
-** Research, Development, Communication Networking, Programming, Machine Learning, Aviation Management
+**Research, Development, Communication Networking, Programming, Machine Learning, Aviation Management**
+
 
 ***
 
@@ -49,15 +50,15 @@ For more details see [Research Gate webpage](https://www.researchgate.net/public
 
 ### Study Projects
 
-** Automatic Vehicle location using GPS and GSM**
+**Automatic Vehicle location using GPS and GSM**
 
-***Summary***
+***Summary:***
 
 Idea of my Bachelor thesis was to impelement a cost effective method for vehicle location
 
-** Comparing Netwrok-centric and User-centric Multihomed Management**
+**Comparing Netwrok-centric and User-centric Multihomed Management**
 
-***Summary***
+***Summary:***
 Idea was to compare two OPNET models and find advantages of each approach
 
 **MatLab implementation of Point-to-Point Communication (OFDM)**
@@ -67,11 +68,15 @@ Idea was to compare two OPNET models and find advantages of each approach
 ***
 ## Computer and Tools Knowledge
 
-** Progamming Languages: Python, C, C++, MarkDown, HTML **
-** Version Control: Git **
-** Word & Document Processing: Microsoft Office, Libre Office, Latex **
-** Other Tools: MatLab, OPNET, Mininet **
-** Machine Learning: WEKA, Decision Trees **
+**Progamming Languages: Python, C, C++, MarkDown**
+
+**Version Control: Git**
+
+**Word & Document Processing: Microsoft Office, Libre Office, Latex**
+
+**Other Tools: MatLab, OPNET, Mininet**
+
+**Machine Learning: WEKA, Decision Trees**
 
 ***
 
