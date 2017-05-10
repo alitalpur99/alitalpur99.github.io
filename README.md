@@ -4,7 +4,7 @@ Hi! Thank you for visiting my webpage.
 
 My name is **Ali**. I am currenlty looking for a new challange in research and development. If you would like to know more about me, please read on.
 
-## Interest / Wants 
+## Interest  
 
 **Research, Development, Communication Networking, Programming, Machine Learning, Aviation Management**
 
@@ -53,7 +53,6 @@ For more details see [Research Gate webpage](https://www.researchgate.net/public
 **Automatic Vehicle location using GPS and GSM**
 
 ***Summary:***
-
 Idea of my Bachelor thesis was to impelement a cost effective method for vehicle location
 
 **Comparing Netwrok-centric and User-centric Multihomed Management**
@@ -66,6 +65,7 @@ Idea was to compare two OPNET models and find advantages of each approach
 **Design a Electrocardiogram prototype**
 
 ***
+
 ## Computer and Tools Knowledge
 
 **Progamming Languages: Python, C, C++, MarkDown**
