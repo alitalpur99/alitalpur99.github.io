@@ -1,8 +1,7 @@
 ## Welcome
 
-Hi! My name is **Ali** ![alt text][logo]
+Hi! My name is **Ali** ![Ali](https://github.com/alitalpur99/alitalpur99.github.io/tree/master/src/mypic.png)
 
-[logo]: https://github.com/alitalpur99/alitalpur99.github.io/tree/master/src "ALI"
 Thank you for visiting my personal webpage.
 
 ***
