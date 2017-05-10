@@ -1,6 +1,6 @@
 ## Welcome
 
-Hi! My name is **Ali** ![Ali](src/mypic.png)
+Hi! My name is **Ali** ![Ali](src/gitpic.png)
 
 Thank you for visiting my personal webpage.
 
