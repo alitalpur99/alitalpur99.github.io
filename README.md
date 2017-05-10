@@ -1,9 +1,12 @@
 ## Welcome                                           ![Ali](src/gitpic.jpg)
 
-Hi! Thank you for visiting my personal webpage.
+Hi! Thank you for visiting my webpage.
 
-My name is **Ali**. I am currenlty looking for a new challange in research and development. If you would like to know about my professional and educational qualifications, please read on.
+My name is **Ali**. I am currenlty looking for a new challange in research and development. If you would like to know more about me, please read on.
 
+## Interest / Wants 
+
+** Research, Development, Communication Networking, Programming, Machine Learning, Aviation Management
 
 ***
 
@@ -30,7 +33,8 @@ Pakistan International Airlines (PIA), Karachi, Pakistan
 - Good understanding of Aviation Legislation, Human Factors, and Project Management
 
 ***
-##Education
+
+## Educational Projects
 
 ### Study Thesis
 **Congestion Detection in Softwre-Defined Networks using Machine Learning**
@@ -46,20 +50,32 @@ For more details see [Research Gate webpage](https://www.researchgate.net/public
 ### Study Projects
 
 ** Automatic Vehicle location using GPS and GSM**
+
 ***Summary***
+
 Idea of my Bachelor thesis was to impelement a cost effective method for vehicle location
 
 ** Comparing Netwrok-centric and User-centric Multihomed Management**
+
 ***Summary***
 Idea was to compare two OPNET models and find advantages of each approach
 
-**Point-to-Point Communication (OFDM)**
+**MatLab implementation of Point-to-Point Communication (OFDM)**
 
 **Design a Electrocardiogram prototype**
+
+***
+## Computer and Tools Knowledge
+
+** Progamming Languages: Python, C, C++, MarkDown, HTML **
+** Version Control: Git **
+** Word & Document Processing: Microsoft Office, Libre Office, Latex **
+** Other Tools: MatLab, OPNET, Mininet **
+** Machine Learning: WEKA, Decision Trees **
 
 ***
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/alitalpur99/) - 
-[Xing](https://www.xing.com/profile/AliMurad_Talpur?sc_o=mxb_p)
+[Xing](https://www.xing.com/profile/AliMurad_Talpur?sc_o=mxb_p) -
 [Git](https://www.github.com/alitalpur99)
