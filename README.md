@@ -1,20 +1,24 @@
 ## Welcome                                           ![Ali](src/gitpic.jpg)
 
-Hi! Thank you for visiting my webpage.
+**Hi! My name is **Ali**. Thank you for visiting my web-page.**
 
-My name is **Ali**. I am currenlty looking for a new challange in research and development. If you would like to know more about me, please read on.
+**I am currently looking for a new challenge in research and development of Internet-of-Things, Communication networking, Embedded Systems, Software-defined networking, Aviation management. If you would like to know more about me, please read on!**
+
+
+***
 
 ## Interest  
 
-**Research, Development, Communication Networking, Programming, Machine Learning, Aviation Management**
+**Software Development, Communication Networking, IoT, Machine Learning, Embedded Systems, Aviation Management, Development Engineering**
 
 
 ***
 
 ## Education
 
-### MSc Communication and Information Technology
+### MSc Communication and Information Technology (Feb 2017)
 From University of Bremen, Germany
+GPA: 1.78 out of 1.0
 
 ### BE Electronics
 From MUET, Jamshoro, Pakistan
@@ -23,7 +27,7 @@ From MUET, Jamshoro, Pakistan
 
 ## Professional Experience
 
-### Development Engineer
+### Trainee / Development Engineer
 Pakistan International Airlines (PIA), Karachi, Pakistan
 
 ***Summary***
@@ -37,15 +41,16 @@ Pakistan International Airlines (PIA), Karachi, Pakistan
 
 ## Educational Projects
 
-### Study Thesis
-**Congestion Detection in Softwre-Defined Networks using Machine Learning**
+### Master Thesis
+**Congestion Detection in Software-Defined Networks using Machine Learning**
+- **Keywords:** TCP Congestion detection, SDN/OpenFlow, POX Controller, Machine Learning
 - Devised a method to detect congestion in SDN/OpenFlow networks
-- Identified suitable features to detect congestion
+- Identified suitable features to detect congestion in SDN/OpenFlow network
 - Created dataset by running multiple experiments in Mininet emulator
-- Used WEKA to build a decision tree classifier
+- Used WEKA machine learning tool to build a decision tree classifier
 - Achieved Accuracy of more than 90%
 
-For more details see [Research Gate webpage](https://www.researchgate.net/publication/313851520_Congestion_Detection_in_Software_Defined_Networks_using_Machine_Learning_of_Ali_Murad_Talpur).
+For more details see [ResearchGate web-page](https://www.researchgate.net/publication/313851520_Congestion_Detection_in_Software_Defined_Networks_using_Machine_Learning_of_Ali_Murad_Talpur).
 
 
 ### Study Projects
@@ -53,34 +58,47 @@ For more details see [Research Gate webpage](https://www.researchgate.net/public
 **Automatic Vehicle location using GPS and GSM**
 
 ***Summary:***
-Idea of my Bachelor thesis was to impelement a cost effective method for vehicle location
+Idea of my Bachelor thesis was to implement a cost effective method for vehicle location
 
-**Comparing Netwrok-centric and User-centric Multihomed Management**
+**Comparing Network-centric and User-centric Multihomed Management**
 
 ***Summary:***
 Idea was to compare two OPNET models and find advantages of each approach
 
 **MatLab implementation of Point-to-Point Communication (OFDM)**
 
-**Design a Electrocardiogram prototype**
+**Designing of an Electrocardiogram prototype**
 
 ***
 
 ## Computer and Tools Knowledge
 
-**Progamming Languages: Python, C, C++, MarkDown**
+**Programming Languages:** Python, C, C++, MarkDown
 
-**Version Control: Git**
+**Word & Document Processing:** Microsoft Office, Libre Office, Latex
 
-**Word & Document Processing: Microsoft Office, Libre Office, Latex**
+**Other Tools:** MatLab, OPNET Simulator, Mininet Emulator, LabView
 
-**Other Tools: MatLab, OPNET, Mininet**
+**Machine Learning:** WEKA, Decision Trees
 
-**Machine Learning: WEKA, Decision Trees**
+**Version Control:** Git
+
+## Hardware Knowledge
+
+**MicroControllers:** Atmel 89C51 MicroController, Adruino Uno
+
+***
+
+
+## Hobbys
+
+Cycling, Cooking, Aviation and Technology news, Football
 
 ***
 
 ## Contact
+
 [LinkedIn](https://www.linkedin.com/in/alitalpur99/) - 
 [Xing](https://www.xing.com/profile/AliMurad_Talpur?sc_o=mxb_p) -
 [Git](https://www.github.com/alitalpur99)
+[ResearchGate](https://www.researchgate.net/profile/Ali_Talpur)
