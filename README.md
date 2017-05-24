@@ -1,6 +1,6 @@
 ## Welcome                                           ![Ali](src/gitpic.jpg)
 
-**Hi! My name is **Ali**. Thank you for visiting my web-page.**
+Hi! My name is **Ali**. Thank you for visiting my web-page.
 
 **I am currently looking for a new challenge in research and development of Internet-of-Things, Communication networking, Embedded Systems, Software-defined networking, Aviation management. If you would like to know more about me, please read on!**
 
@@ -18,6 +18,7 @@
 
 ### MSc Communication and Information Technology (Feb 2017)
 From University of Bremen, Germany
+
 GPA: 1.78 out of 1.0
 
 ### BE Electronics
@@ -100,5 +101,5 @@ Cycling, Cooking, Aviation and Technology news, Football
 
 [LinkedIn](https://www.linkedin.com/in/alitalpur99/) - 
 [Xing](https://www.xing.com/profile/AliMurad_Talpur?sc_o=mxb_p) -
-[Git](https://www.github.com/alitalpur99)
+[Git](https://www.github.com/alitalpur99) - 
 [ResearchGate](https://www.researchgate.net/profile/Ali_Talpur)
