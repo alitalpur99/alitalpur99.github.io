@@ -2,14 +2,14 @@
 
 Hi! My name is **Ali**. Thank you for visiting my web-page.
 
-**I am currently looking for a new challenge in research and development of Internet-of-Things, Communication networking, Embedded Systems, Software-defined networking, Aviation management. If you would like to know more about me, please read on!**
+I am currently looking for a new challenge in research and development of Internet-of-Things (IoT), Communication networking, Embedded Systems, Software-defined networking, Aviation management. If you would like to know more about me, please read on!
 
 
 ***
 
-## Interest  
+## Interest & Qualification
 
-**Software Development, Communication Networking, IoT, Machine Learning, Embedded Systems, Aviation Management, Development Engineering**
+**Machine Learning, SDN, Software Development, Communication Networking, IoT, Embedded Systems, Aviation Management, Development Engineering**
 
 
 ***
@@ -19,10 +19,12 @@ Hi! My name is **Ali**. Thank you for visiting my web-page.
 ### MSc Communication and Information Technology (Feb 2017)
 From University of Bremen, Germany
 
-GPA: 1.78 out of 1.0
+Grade: 1.78 out of 1.0
 
 ### BE Electronics
 From MUET, Jamshoro, Pakistan
+
+Grade: 84%
 
 ***
 
@@ -35,7 +37,7 @@ Pakistan International Airlines (PIA), Karachi, Pakistan
 - Aviation professional with more than seven years of experience on Airbus and Boeing fleet
 - Working experience of airline's Development, Airworthiness Management, Line and Base maintenance departments
 - Experience on Aircraft Avionics and In-flight Entertainment (IFE) Systems 
-- Held Aircraft Maintenance Engineers License on Airbus A310-300 aircraft 
+- Held Aircraft Maintenance Engineers License on Airbus A310-300 aircraft (2011-2013)
 - Good understanding of Aviation Legislation, Human Factors, and Project Management
 
 ***
@@ -74,13 +76,13 @@ Idea was to compare two OPNET models and find advantages of each approach
 
 ## Computer and Tools Knowledge
 
-**Programming Languages:** Python, C, C++, MarkDown
+**Programming Languages:** Python, C, C++, MarkDown, Bash
 
 **Word & Document Processing:** Microsoft Office, Libre Office, Latex
 
 **Other Tools:** MatLab, OPNET Simulator, Mininet Emulator, LabView
 
-**Machine Learning:** WEKA, Decision Trees
+**Machine Learning:** WEKA, Sk-learn, Neural Networks, Decision Trees
 
 **Version Control:** Git
 
@@ -92,8 +94,8 @@ Idea was to compare two OPNET models and find advantages of each approach
 
 
 ## Hobbys
-
-Cycling, Cooking, Aviation and Technology news, Football
+ 
+ Cooking, Aviation and Technology news, Football
 
 ***
 
