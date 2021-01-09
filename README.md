@@ -2,7 +2,7 @@
 
 Hi! My name is **Ali**. Thank you for visiting my web-page.
 
-I am currently working as an System Development Engineer. If you would like to know more about me, please read on!
+I am currently working as a System Development Engineer. If you would like to know more about me, please read on!
 
 ***
 
